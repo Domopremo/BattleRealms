@@ -1,6 +1,6 @@
 # BattleRealms
 
-Welcome to the past, Here you will find various files, Maps & Textures.
+Welcome to the past, Here you will find various files, Maps & Textures & Some Other files.
 
 all related, .cc is down and has been down for some time, 
 
